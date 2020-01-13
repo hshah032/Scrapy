@@ -16,3 +16,13 @@ A prevalent problem faced by society today is that of fake news. This issue can 
 To install Scrapy, run the following command::
 
     pip install scrapy
+  
+Install
+=======
+
+The quick way::
+
+    pip install scrapy
+
+See the install section in the documentation at
+https://docs.scrapy.org/en/latest/intro/install.html for more details.
