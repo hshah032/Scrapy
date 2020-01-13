@@ -1,17 +1,18 @@
 # Scrapy
-Web scraping using Scrapy:
 
-Brief Overview: 
-  Scrapy is a free and open-source web-crawling framework written in Python
-  
- Quick tutorial: 
-  
-1- Creating a new Scrapy project
-2- Writing a spider to crawl a site and extract data
-3- Exporting the scraped data using the command line
-4- Changing spider to recursively follow links
-5- Using spider arguments
+## Overview
 
-Next Steps: learning to clean up the datasets and exporting them to a MySql database 
+A web scraper built using Scrapy, a free open-source web crawling framework written in Python.
 
-Will utilize this knowledge in a ML project related to Fake News  
+## Purpose
+
+A prevalent problem faced by society today is that of fake news. This issue can be combatted using a machine learning based tool that classifies articles or parts of articles as being untrue. However, in order to use machine learning, one needs a lot of data. By building a robust web scraper, I hope to be able to gather the necessary data to develop a dataset for a fake news detector tool. 
+
+## Requirements
+
+* Python 3.5+
+* Scrapy 
+
+To install Scrapy, run the following command::
+
+    pip install scrapy
