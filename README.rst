@@ -7,6 +7,8 @@ Overview
 
 A web scraper built using Scrapy, a free open-source web crawling framework written in Python.
 
+* "Any content that can be viewed on a webpage can be scraped. Period."
+
 Purpose
 =======
 
