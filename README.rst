@@ -31,7 +31,7 @@ https://docs.scrapy.org/en/latest/intro/install.html for more details.
 Problems
 ========
 
-overcome four distinct threat defense mechanisms::
+overcome four distinct threat defense mechanisms
 
 * User agent filtering
 * Obfuscated javascript redirects
