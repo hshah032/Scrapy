@@ -1,6 +1,6 @@
-======
+=======
 Scrapy
-======
+=======
 
 Overview
 =======
@@ -17,10 +17,6 @@ Requirements
 
 * Python 3.5+
 * Scrapy 
-
-To install Scrapy, run the following command::
-
-    pip install scrapy
   
 Install
 =======
