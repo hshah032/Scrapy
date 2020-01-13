@@ -27,3 +27,13 @@ The quick way::
 
 See the install section in the documentation at
 https://docs.scrapy.org/en/latest/intro/install.html for more details.
+
+Problems
+========
+
+overcome four distinct threat defense mechanisms::
+
+* User agent filtering
+* Obfuscated javascript redirects
+* Captchas
+* Header consistency checks
